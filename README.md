@@ -8,3 +8,4 @@ for i = 1:nsim
     x(i) = i;
 end
     
+disp(x)
